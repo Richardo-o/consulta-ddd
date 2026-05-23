@@ -12,6 +12,3 @@ Aplicativo mobile desenvolvido com React Native (Expo) para consultar o estado e
 - Expo Vector Icons (FontAwesome)
 - Animated API (animações nativas)
 
-## Estrutura de pastas
-
-A estrutura gerada pelo Expo CLI é a seguinte:
