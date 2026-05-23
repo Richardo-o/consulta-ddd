@@ -2,7 +2,7 @@
 
 Aplicativo mobile desenvolvido com React Native (Expo) para consultar o estado e a lista de cidades pertencentes a um código DDD, utilizando a API pública BrasilAPI.
 
-![Tela do aplicativo](./WhatsApp%20Image%202026-05-23%20at%2020.00.51.jpeg)
+![Tela do app](./consulta-ddd.jpeg)
 
 ## Tecnologias
 
